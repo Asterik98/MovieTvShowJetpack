@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Dicoding Academy</string>
+    <string name="title_activity_detail_course">Detail Course</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="dateline">Tanggal Rilis: </string>
+    <string name="description_module">Kilasan Singkat</string>
+    <string name="example">Example</string>
+    <string name="start_learn">Mulai Belajar</string>
+    <string name="list_module">Daftar Modul</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">TV Show</string>
+    <string name="menu_bookmark">bookmark</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="last_seen">Terakhir dilihat</string>
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+    <string name="deadline_date">Tanggal Rilis: %s</string>
+    <string name="share_text">Segera daftar kelas %s di dicoding.com</string>
+    <string name="persen">72%</string>
+    <string name="genre">genre</string>
+    <string name="cast">Cast</string>
+    <string name="cast1">Cast1</string>
+    <string name="cast2">Cast2</string>
+    <string name="cast3">Cast3</string>
+    <string name="peran1">peran1</string>
+    <string name="peran2">peran2</string>
+    <string name="peran3">peran3</string>
+    <string name="waktu">waktu</string>
+</resources>
